@@ -5,9 +5,9 @@
   <subtitle>Welcome</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://frankzhou.site/"/>
+  <link href="https://frankzhou.site/"/>
   <updated>2020-03-23T08:49:04.432Z</updated>
-  <id>http://frankzhou.site/</id>
+  <id>https://frankzhou.site/</id>
   
   <author>
     <name>Frank Zhou</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://frankzhou.site/2020/03/23/hello-world/"/>
-    <id>http://frankzhou.site/2020/03/23/hello-world/</id>
+    <link href="https://frankzhou.site/2020/03/23/hello-world/"/>
+    <id>https://frankzhou.site/2020/03/23/hello-world/</id>
     <published>2020-03-23T08:49:04.432Z</published>
     <updated>2020-03-23T08:49:04.432Z</updated>
     
@@ -40,8 +40,8 @@
   
   <entry>
     <title>test</title>
-    <link href="http://frankzhou.site/2020/03/23/test/"/>
-    <id>http://frankzhou.site/2020/03/23/test/</id>
+    <link href="https://frankzhou.site/2020/03/23/test/"/>
+    <id>https://frankzhou.site/2020/03/23/test/</id>
     <published>2020-03-23T08:19:59.000Z</published>
     <updated>2020-03-23T08:19:59.488Z</updated>
     
