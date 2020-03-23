@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Frank Zhou&#39;s Site</title>
+  <title></title>
   
-  <subtitle>Swagger</subtitle>
+  <subtitle>Frank Zhou&#39;s Site</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://frankzhou.site/"/>
